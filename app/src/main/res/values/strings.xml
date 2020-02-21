@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">java_api_github</string>
+    <string name="internet">Sem conexão com a internet!</string>
+</resources>
