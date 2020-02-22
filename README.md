@@ -10,7 +10,7 @@ Demonstração de como recuperar uma lista de usuários, formatar utilizando GSO
 [Retrofit 2.4.0](https://square.github.io/retrofit/)\
 [Glide](https://bumptech.github.io/glide/)\
 [GSON 2.8.5](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.8.5)\
-[Picasso 2.71828](https://square.github.io/picasso/)\
+[Picasso 2.71828](https://square.github.io/picasso/)
 
 
 # Utilização
